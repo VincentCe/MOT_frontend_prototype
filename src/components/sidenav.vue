@@ -65,6 +65,12 @@ export default {
           requireAuth: false
         },
         {
+          icon: 'mdi-account',
+          text: 'Dataset',
+          route: 'https://drive.google.com/file/d/1A7Cz4QlAqNOEuIFZZaf0zU8BFLESZ0tj/view?usp=sharing',
+          requireAuth: false
+        },
+        {
           icon: 'mdi-view-dashboard',
           text: 'Dashboard',
           route: '/dashboard',
